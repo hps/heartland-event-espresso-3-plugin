@@ -1,3 +1,5 @@
+*** This library is no longer maintained! ***
+
 ## SecureSubmit Event Espresso Payment Gateway
 
 This extension allows Event Espresso to use the Heartland Payment Systems Gateway. All card data is tokenized using Heartland's SecureSubmit product.
